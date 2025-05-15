@@ -14,4 +14,5 @@
 This project explores machine learning and deep learning models to classify landfill waste images (RealWaste dataset) into nine categories. The goal is to compare, fine-tune and evaluate models to improve classification accuracy.
 
 **Dataset**
-Available here: https://drive.google.com/file/d/1RS_MlPKZqtKOBaoVBAbnY8TWbtU6QOGQ/view?usp=drive_link
+Download using scripts/download_data.sh
+Also available here: https://drive.google.com/file/d/1RS_MlPKZqtKOBaoVBAbnY8TWbtU6QOGQ/view?usp=drive_link
